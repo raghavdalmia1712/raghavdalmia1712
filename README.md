@@ -11,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghavdalmia1712&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavdalmia1712&theme=buefy&layout=compact" />
 </a>
+[![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=raghavdalmia1712)](https://github.com/raghavdalmia1712/github-readme-stats)
 
 <br /><br/>
 
@@ -32,7 +33,11 @@
 <a href="https://www.linkedin.com/in/raghavdalmia/"><img align="left" alt="raghav-dalmia | Linkedin" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-media-2110/64/Linked_In-01-512.png" /></a>
 <a href="https://www.instagram.com/0o_raghav_o0/"><img align="left" alt="raghav-dalmia | Instagram" width="50px" src="https://cdn4.iconfinder.com/data/icons/social-media-2110/64/Instagram-01-512.png" /></a>
 
+<br /><br/>
+
 ⭐️ From [raghavdalmia1712](https://github.com/raghavdalmia1712)
+
+
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
