@@ -8,10 +8,9 @@
 
 
 <a href="https://github.com/raghavdalmia1712">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghavdalmia1712&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavdalmia1712&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghavdalmia1712&theme=buefy&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavdalmia1712&theme=buefy&layout=compact&theme=radical" />
 </a>
-[![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=raghavdalmia1712)](https://github.com/raghavdalmia1712/github-readme-stats)
 
 <br /><br/>
 
